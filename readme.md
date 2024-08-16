@@ -9,7 +9,7 @@ Ce script CGI en C++ permet de gérer l'authentification des utilisateurs. Il ex
 - Extraction des données d'identification (`name` et `password`) à partir d'une requête POST.
 - Vérification des informations d'identification par rapport à un fichier texte (`data.txt`).
 - Affichage d'un message de succès en cas de connexion réussie.
-- Redirection vers `index.cgi` avec un message d'erreur en cas de connexion échouée.
+- Redirection vers `index.html` avec un message d'erreur en cas de connexion échouée.
 
 ## Prérequis
 
